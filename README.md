@@ -48,6 +48,9 @@ Windowsの右下の通知領域に、Microsoft IMEの「A」というアイコ�
 
 下のTwitterアカウント宛にDMまたはメンションしていただいても構いません。
 DMやメンションいただかなくても、ハッシュタグ[#kaomoji_proj](https://twitter.com/hashtag/kaomoji_proj)をつけてツイートしていただいても構いません。
+
+[今すぐツイート](https://twitter.com/intent/tweet?text=&hashtags=kaomoji_proj&via=mtripg6666tdr)
+
  お気軽に申請ください。申請をお待ちしています。
 # 作成者
 [みょん ❲myon2019❳ / mtripg6666tdr](https://github.com/mtripg6666tdr)
