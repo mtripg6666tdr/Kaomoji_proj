@@ -55,3 +55,5 @@ DMやメンションいただかなくても、ハッシュタグ[#kaomoji_proj]
 [Twitter：@mtripg6666tdr](https://twitter.com/mtripg6666tdr)
 
 [ホームページ：みっくすくらっぷ](https://scrpg.tyanoyu.net/?ref=github_kaomojiproj_readme)
+
+Copyright (c) 2016-2020 mtripg6666tdr All Rights Reserved.
