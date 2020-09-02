@@ -8,7 +8,7 @@
 # ライセンス
 本リポジトリのコンテンツは[GNU General Public License v3.0](LICENSE.md)のもとで提供されます。
 # バージョン
-現在の本辞書の最新のバージョンはv1.6です。
+現在の本辞書の最新のバージョンは[プロジェクトページ](https://mtripg6666tdr.github.io/Kaomoji_proj/index.html)または[リポジトリのリリース一覧](https://github.com/mtripg6666tdr/Kaomoji_proj/releases/)で確認してください。
 それ以前の辞書を既に使用している場合には、削除してから登録し直してください。
 # 使用法
 本辞書はMicrosoft IMEに適用することで、誰でも使用できるようにます。
