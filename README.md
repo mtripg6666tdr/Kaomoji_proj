@@ -79,7 +79,6 @@ DMやメンションいただかなくても、ハッシュタグ[#kaomoji_proj]
 [今すぐツイート](https://twitter.com/intent/tweet?text=&hashtags=kaomoji_proj&via=mtripg6666tdr)
 
  お気軽に申請ください。申請をお待ちしています。
-# 作成者
-[うさみょん(myon2019)/mtripg6666tdr](https://github.com/mtripg6666tdr)  
+
 
 Copyright (c) 2016-2022 mtripg6666tdr All Rights Reserved.
