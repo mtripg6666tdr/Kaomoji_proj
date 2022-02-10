@@ -1,2 +1,4 @@
 *.dic_bak
+errlog*.txt
 properties.txt
+kaomoji_sys.dic
