@@ -6,7 +6,8 @@
  Microsoft IMEにははじめから顔文字が多数収録されていますが、それでは物足りない人のためのカスタムユーザー辞書を提供することです。
  顔文字はmtripg6666tdrがネット上で見つけたものやそれらを組み合わせたものです。
 # ライセンス
-本リポジトリのコンテンツは[GNU General Public License v3.0](LICENSE.md)のもとで提供されます。
+本リポジトリのコンテンツは[MIT License](LICENSE)のもとで提供されます。  
+※v1.7以前の各種ファイルはGNU General Public License v3.0で提供されてます。
 # バージョン
 現在の本辞書の最新のバージョンは[プロジェクトページ](https://mtripg6666tdr.github.io/Kaomoji_proj/index.html)または[リポジトリのリリース一覧](https://github.com/mtripg6666tdr/Kaomoji_proj/releases/)で確認してください。
 それ以前の辞書を既に使用している場合には、削除してから登録し直してください。
@@ -79,10 +80,6 @@ DMやメンションいただかなくても、ハッシュタグ[#kaomoji_proj]
 
  お気軽に申請ください。申請をお待ちしています。
 # 作成者
-[みょん ❲myon2019❳ / mtripg6666tdr](https://github.com/mtripg6666tdr)
+[うさみょん(myon2019)/mtripg6666tdr](https://github.com/mtripg6666tdr)  
 
-[Twitter：@mtripg6666tdr](https://twitter.com/mtripg6666tdr)
-
-[ホームページ：みっくすくらっぷ](https://scrpg.tyanoyu.net/?ref=github_kaomojiproj_readme)
-
-Copyright (c) 2016-2020 mtripg6666tdr All Rights Reserved.
+Copyright (c) 2016-2022 mtripg6666tdr All Rights Reserved.
